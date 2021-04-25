@@ -1,0 +1,7 @@
+name: MysteriaPlayerTitles
+version: ${project.version}
+main: com.mysteria.titles.PlayerTitlesPlugin
+api-version: 1.16
+authors: [ Singularity ]
+depend: [ MysteriaUtils ]
+softdepend: [ MysteriaEssentials, CustomAPI ]
